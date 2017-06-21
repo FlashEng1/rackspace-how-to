@@ -38,7 +38,7 @@ drastic price increase.
 
 |Additional Features | 30 GB Cloud Storage | Desktop Sync of files | Microsoft Compatible online editors |
 |---|---|---|---|
-|  |  |  |  |
+| Rackspace Email |  |  |  |
 
 |Rackspace Email PLUS|
 |---|
@@ -51,7 +51,7 @@ drastic price increase.
 
 |Additional Features | 30 GB Cloud Storage | Desktop Sync of files | Microsoft Compatible online editors |
 |---|---|---|---|
-|  | X | X | X |
+| Rackspace Email Plus | X | X | X |
 
 
 
