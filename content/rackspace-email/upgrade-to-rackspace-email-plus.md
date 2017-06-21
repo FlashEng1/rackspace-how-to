@@ -38,10 +38,8 @@ drastic price increase.
 |---|---|---|---|
 | Rackspace Email | Not available | Not available | Not available |
 
-|Rackspace Email PLUS|
-|---|
 
-| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
+| Rackspace Email Plus | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
 |---|---|---|---|---|---|---|
 |**Syncs to desktop mail client**| X |  |  |  | | |
 |**Syncs to Mobile Device**| X | X | | | |  |
