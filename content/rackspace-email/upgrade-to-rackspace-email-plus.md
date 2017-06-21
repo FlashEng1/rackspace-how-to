@@ -52,4 +52,13 @@ Follow these steps to upgrade your Rackspace Email users to Rackspace Email Plus
 
 1. Log into your [Cloud Office Control Panel](https://cp.rackspace.com/Login.aspx?ReturnUrl=%2f "Cloud Office Control Panel").
 
-2.
+2. Within the Rackspace Email sections select **Rackspace Email Plus** from the third column to the right.
+
+3. If you have multiple domains select the domain you wish to upgrade to Rackspace Email Plus.
+
+Note: This upgrade applies to the entire domain. It cannot be done for individual users.
+
+4. After selecting the domain you would like to upgrade you will be prompted with a short video explaining the benefits of Rackspace Email Plus.
+Once you have reviewed this information select **Upgrade Domain** in the lower left-hand corner or the screen.
+
+5. When this domain has been successfully upgraded to Rackspace Email Plus you will be taken back to the mailbox list and see a note stating "Success! All Rackspace Email users on yourdomainexample.com have been upgraded to Rackspace Email Plus."
