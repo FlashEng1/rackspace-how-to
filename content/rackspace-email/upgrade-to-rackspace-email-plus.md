@@ -27,10 +27,8 @@ upgrade if you are not yet sure.
 Rackspace Email is a powerful product but Rackspace Email Plus offers the collaboration your business needs without the
 drastic price increase.
 
-|Rackspace Email|
-|---|
 
-| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
+| Rackspace Email | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
 |---|---|---|---|---|---|---|
 |**Syncs to desktop mail client**| X | | | | | |
 |**Syncs to Mobile Device**| X | | | | | |
@@ -43,11 +41,12 @@ drastic price increase.
 |Rackspace Email PLUS|
 |---|
 
-| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing | 30GB Cloud Storage|
-|---|---|---|---|---|---|---|---|
-|**Syncs to desktop mail client**| X |  |  |  | | | |
-|**Syncs to Mobile Device**| X | X | | | |  | |
-|**Available in webmail**| X | X | X | X | X | X | |
+| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |\
+|---|---|---|---|---|---|---|
+|**Syncs to desktop mail client**| X |  |  |  | | |
+|**Syncs to Mobile Device**| X | X | | | |  |
+|**Available in webmail**| X | X | X | X | X | X |
+
 |Additional Features | 30 GB Cloud Storage | Desktop Sync of files | Microsoft Compatible online editors |
 | Rackspace Email Plus | X | X | X |
 
