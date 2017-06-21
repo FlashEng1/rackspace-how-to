@@ -30,7 +30,7 @@ drastic price increase.
 |Rackspace Email|
 |---|
 
-|   | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
+| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
 |---|---|---|---|---|---|---|
 |**Syncs to desktop mail client**| X | | | | | |
 |**Syncs to Mobile Device**| X | | | | | |
@@ -40,11 +40,13 @@ drastic price increase.
 |Rackspace Email PLUS|
 |---|
 
-|   | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing |
+| Basic Features  | Mail | Calendar | Contacts | Notes | Tasks | Calendar Sharing | 30GB Cloud Storage|
 |---|---|---|---|---|---|---|
 |**Syncs to desktop mail client**| X |  |  |  | | |
 |**Syncs to Mobile Device**| X | X | | | |  |
 |**Available in webmail**|  X | X | X | X | X | X |
+|Additional Features||||||||X|
+
 
 
 Follow these steps to upgrade your Rackspace Email users to Rackspace Email Plus.
