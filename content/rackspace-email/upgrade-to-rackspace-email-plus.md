@@ -36,6 +36,9 @@ drastic price increase.
 |**Syncs to Mobile Device**| X | | | | | |
 |**Available in webmail**|  X | X | X | X | X | X |
 
+|Additional Features | 30 GB Cloud Storage | Desktop Sync of files | Microsoft Compatible online editors |
+|---|---|---|---|
+|  |  |  |  |
 
 |Rackspace Email PLUS|
 |---|
@@ -45,7 +48,10 @@ drastic price increase.
 |**Syncs to desktop mail client**| X |  |  |  | | | |
 |**Syncs to Mobile Device**| X | X | | | |  | |
 |**Available in webmail**| X | X | X | X | X | X | |
-|**Additional Features**| | | | | | | | X |
+
+|Additional Features | 30 GB Cloud Storage | Desktop Sync of files | Microsoft Compatible online editors |
+|---|---|---|---|
+|  | X | X | X |
 
 
 
